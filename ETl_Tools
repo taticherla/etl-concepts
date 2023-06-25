@@ -1,0 +1,95 @@
+ETL Tools
+
+- Informatica PowerCenter
+  - Data Extraction
+  - Data Transformation
+  - Data Loading
+  - Change Data Capture (CDC)
+  - Workflow Management
+  - Data Quality Management
+  - Metadata Management
+  - Error Handling and Logging
+  - Integration with Various Systems and Databases
+  - Scalability and Performance Optimization
+
+- IBM InfoSphere DataStage
+  - Extract, Transform, Load (ETL) Processes
+  - Parallel Processing
+  - Data Transformation and Mapping
+  - Job Design and Orchestration
+  - Data Profiling and Quality Monitoring
+  - Real-Time Integration
+  - Connectivity to Multiple Data Sources
+  - Data Cleansing and Standardization
+  - Change Data Capture (CDC) and Delta Processing
+  - Integration with IBM Data Warehousing Solutions
+
+- Microsoft SQL Server Integration Services (SSIS)
+  - Data Extraction from Various Sources
+  - Data Transformation with Built-in Transformations
+  - ETL Workflow Design and Execution
+  - Visual Interface for Creating Packages
+  - Scripting and Custom Component Development
+  - Data Quality Services
+  - Error Handling and Logging
+  - Integration with Microsoft SQL Server
+  - Connectivity to Heterogeneous Data Sources
+  - Deployment and Scheduling Capabilities
+
+- Talend Data Integration
+  - Data Extraction, Transformation, and Loading
+  - Big Data Integration (Hadoop, Spark, NoSQL)
+  - Real-Time Data Integration
+  - Data Quality and Cleansing
+  - Metadata Management
+  - Job Design and Orchestration
+  - Connectivity to Various Data Sources
+  - Scalability and High-Performance Execution
+  - Open-Source and Commercial Editions
+  - Integration with Ecosystem of Talend Products
+
+- Oracle Data Integrator (ODI)
+  - Data Extraction, Transformation, and Loading
+  - Change Data Capture (CDC)
+  - Knowledge Modules for Data Integration
+  - Data Quality and Cleansing
+  - Mapping and Transformation Designer
+  - ETL Workflow Design and Orchestration
+  - Connectivity to Oracle and Non-Oracle Databases
+  - Integration with Oracle Fusion Middleware
+  - Parallel Execution and Scalability
+  - Metadata Management and Impact Analysis
+
+- SAP Data Services
+  - Data Extraction from Various Sources
+  - Data Transformation and Cleansing
+  - Data Quality and Validation
+  - Metadata Management
+  - Job Design and Orchestration
+  - Text Data Processing and Sentiment Analysis
+  - Real-Time Data Integration
+  - Change Data Capture (CDC)
+  - Connectivity to SAP and Non-SAP Systems
+  - Integration with SAP Analytics and Business Intelligence Solutions
+
+- Pentaho Data Integration
+  - Data Extraction, Transformation, and Loading
+  - Job Design and Orchestration
+  - Data Quality and Cleansing
+  - Connectivity to Diverse Data Sources
+  - Big Data Integration (Hadoop, Spark)
+  - Real-Time Data Integration
+  - Metadata Management
+  - ETL Monitoring and Auditing
+  - Integration with Pentaho Business Analytics Platform
+  - Open-Source and Enterprise Editions
+
+- Other ETL Tools
+  - Ab Initio
+  - SAS Data Integration Studio
+  - Syncsort DMX
+  - CloverETL
+  - Matillion ETL
+  - SnapLogic
+  - Apache Nifi
+
